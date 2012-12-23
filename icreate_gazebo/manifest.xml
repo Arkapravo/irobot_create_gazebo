@@ -1,0 +1,17 @@
+<package>
+  <description brief="icreate_gazebo">
+
+     icreate_gazebo
+
+  </description>
+  <author>cluster</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/icreate_gazebo</url>
+  <depend package="roscpp"/>
+  <depend package="rosmsg"/>
+  <depend package="rospy"/>
+
+</package>
+
+
