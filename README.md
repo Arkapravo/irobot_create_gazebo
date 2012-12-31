@@ -1,7 +1,7 @@
-roomba_icreate_gazebo
+irobot_create_gazebo
 =====================
 
-Roomba icreate simulations in gazebo (ROS Electric)
+irobot create simulations in gazebo (ROS Electric)
 
 Fork in
 -------
