@@ -7,7 +7,7 @@ Fork in
 -------
 A good part of this repository is forked in from the following, 
 
-(1) icreate URDF is from http://code.google.com/p/aptima-ros-pkg/ (revision 42)   
+(1) create URDF is from http://code.google.com/p/aptima-ros-pkg/ (revision 42)   
 (2) erratic gazebo plugin is from https://code.google.com/p/ua-ros-pkg/ (revision 1654)    
 
 Installation
